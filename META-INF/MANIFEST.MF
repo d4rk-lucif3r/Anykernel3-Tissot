@@ -1,0 +1,51 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: ZQie4rHBozuo1iAamIR0ggqDdmI=
+
+Name: anykernel.sh
+SHA1-Digest: lcM5Zq/u63QSeE5+Z3GVQhAomj4=
+
+Name: dtb-nontreble/msm8953-qrd-sku3-tissot-nontreble.dtb
+SHA1-Digest: jagkSsa/N+iVx7dpIyiK9ZJWS3s=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: 0E5GCDEmlxkSn0xFWGfwedqBtxw=
+
+Name: tools/busybox
+SHA1-Digest: cmOKmjpYfdjzaus54MMPO9U6bxc=
+
+Name: banner
+SHA1-Digest: rQT8EWYmsU9q4KBYrN7+4tYF4fc=
+
+Name: tools/magiskpolicy
+SHA1-Digest: 7HV1TiYM0q5NwgNfA+57wGcU0CI=
+
+Name: tools/mkbootimg
+SHA1-Digest: RcdNukGenTq1K0EKAcdHtWnUnQA=
+
+Name: tools/unpackbootimg
+SHA1-Digest: ca2tK2YekKGpDgFKC7EKc7AW09E=
+
+Name: tools/ak3-core.sh
+SHA1-Digest: 6G8QehIw+CDz+Dc7AYVAqn8o63g=
+
+Name: tools/magiskboot
+SHA1-Digest: BmavKswKTRMn6pjDUJwElip7PWM=
+
+Name: dtb-treble/msm8953-qrd-sku3-tissot-treble.dtb
+SHA1-Digest: 0RqR5BNcHXhIju2cAWVRhACYJKI=
+
+Name: tools/xz
+SHA1-Digest: WVzvPtyYdIkX/XvJwA4TKF6dSeE=
+
+Name: LICENSE
+SHA1-Digest: bLJUIyJxYeq+v2SYZjPN04Prs4I=
+
+Name: tools/lz4
+SHA1-Digest: EK/cBgRpHr/ykTovGxgZuY2x5mc=
+
+Name: kernel/Image.gz
+SHA1-Digest: UF+VBGVBfq4VovmA/L1LJECfM7U=
+
